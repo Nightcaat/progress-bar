@@ -1,2 +1,2 @@
 # progress-bar
-An easy to use progress bar.
+An easy to use progress bar. You can change it and customize it however you'd like. Use something like JavaScript (or, as a test, manually change it with Inspect Element) to modify the width of the **.xpbar** element, and it will smoothly take effect. This progress bar was made to be used in the [Blobs.io repository](https://github.com/blobs-io/blobs.io), but I decided that it would be best to create a repository for it.

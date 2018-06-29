@@ -1,0 +1,16 @@
+body {
+    background: #2C2F33;
+    font-family: Ubuntu, Arial;
+} h2, p {
+    color: #ddd;
+} .xpbar-container {
+    height: 25px;
+    width: 200px;
+    background-color: gray;
+    border-radius: 4px;
+} .xpbar {
+    height: 25px;
+    width: 10px;
+    background-color: greenyellow;
+    border-radius: 4px;
+}
